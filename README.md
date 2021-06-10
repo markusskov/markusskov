@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Markus 👋
 
-<!--
-**markusskov/markusskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 26 year old Frontend student @ Noroff!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Things I'm learning now:**
+
+![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+
+**I have good experience with:**
+
+![PS](https://img.shields.io/badge/-photoshop-black?style=for-the-badge&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator)
+![XD](https://img.shields.io/badge/-XD-black?style=for-the-badge&logo=adobe-xd)
+
+[![Markus' github stats](https://github-readme-stats.vercel.app/api?username=markusskov&show_icons=true&theme=dark)](https://github.com/markusskov/github-readme-stats)
