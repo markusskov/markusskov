@@ -1,7 +1,5 @@
 # Hi, I'm Markus 👋
 
-## 27 year old Frontend student @ Noroff!
-
 
 **Things I'm learning now:**
 
